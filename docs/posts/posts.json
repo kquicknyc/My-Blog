@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "description": "This is my first post and my first venture into the exciting world of cognitive psychology - although I suspect I have been engaged in cognition for quite some time...",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "K Quick",
+        "url": "https://kquicknyc.github.io/My-Blog/"
       }
     ],
     "date": "2021-09-02",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nThis is my first post. Welcome to the world of cognitive psychology. It all starts here. It’s like I tell my kids, “Positive attitude brings positive results!!!”\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-02T23:33:00-04:00",
-    "input_file": {}
+    "last_modified": "2021-09-03T00:10:14-04:00",
+    "input_file": "welcome.knit.md"
   }
 ]

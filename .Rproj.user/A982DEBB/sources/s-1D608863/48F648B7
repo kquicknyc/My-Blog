@@ -3,7 +3,7 @@
     "path": "~/PhD/My Blog/_posts/welcome/welcome.Rmd",
     "project_path": "_posts/welcome/welcome.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2722093783",
     "contents": "",
     "dirty": false,
     "created": 1630639984773.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "8,21",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1630639971,
+    "lastKnownWriteTime": 1630642211,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1630639971,
+    "last_content_update": 1630642211871,
     "read_only": false,
     "read_only_alternatives": []
 }
