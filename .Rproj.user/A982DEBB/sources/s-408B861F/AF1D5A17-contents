@@ -1,0 +1,49 @@
+---
+title: "This is my First Post"
+description: |
+  For this week's post, I offer some commentary on two classical pieces that challenge contemporary thought on cognition.
+author:
+  - name: K Quick
+    url: https://kquicknyc.github.io/My-Blog/
+    affiliation: John Jay College of Criminal Justice
+    affiliation_url: https://www.jjay.cuny.edu 
+date: 09-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+"You Can’t Play 20 Questions with Nature and Win: Projective Comments on the Papers of this Symposium"
+
+By Allen Newell
+
+In his article, Newell critiques the research presented at a symposium to make a poignant observation regarding the scientific method. He argues that social science research, particularly psychological research, has two main tactics: first the observation of phenomenon and development of theory, followed by what he describes as oppositional, binary type experimentation. The end result is often not clarity, rather more uncertainty. Psychological research often provides less answers and more questions regarding human behavior. In the best case scenario, one small element of a given phenomenon is explained and the larger issues remain unresolved. “Science advances by playing twenty questions with nature” (p. 8). Human behavior is broken down into small segments. Often, there is little risk involved and even less opportunity for advancement. 
+
+According to Newell, determining the method of the subject is the most important variable in deciphering human behavior. The psychologist must know what methods are available to the research subject, and use the experimentation to determine which method he or she is likely to choose. He criticizes studies for lacking control structures; to him, psychological research is like interpreting computer code. If these factors are present, these results will occur. Newell views cognition as finite and certain. He argues that as long as methods are known and control structures are used, human behavior is definitively predictable. 
+
+I cannot help but feel that Newell is too harsh in his criticism of current scientific methods and too naïve in his recommendations for improvement. First of all, in all social science research, there is a random noise or error term that cannot be fully accounted for. Two humans placed in the same exact experimental setting, with the same exact controls present, may still respond differently. Even the most robust study, with the most rigorous controls, will never have a 100% confidence interval. There will always be some chance that we got it wrong. Newell’s recommendation that psychology be improved by implementing complete processing models seems to suggest that we can achieve infallibility – an argument that is egotistical at best. His secondary recommendation that researchers analyze a complex task, rather than the traditional method of breaking complex tasks down into parsimonious tasks, also seems to fly in the face of conventional science and go against the old adage, “Keep it simple stupid”. Breaking complex tasks down into simple, more distinguishable and isolated tasks for experimental testing allows scientists to isolate causation and reduce the error term.
+
+Nevertheless, Newell does make an astute observation that the current trajectory of science is unlikely to ever truly explain the essential structure of the mind. I concur with his observation; however, I do not believe that his methods offer a better solution to deciphering the complex nature of human cognition. There can be general rules that will have unspecified exceptions, but there can never be absolutes. The study of human behavior will always have an error term – to think otherwise is to deny our humanity. 	
+
+"Procedures of Mind"
+
+By Paul A. Kolers and Henry L. Roediger III
+
+A few years ago on one dreary afternoon my children were particularly bored. Aspiring to be a good dad, I suggested we watch a movie – thereby minimizing my work effort and maximizing my reputation for being “fun”. As we surfed through the options on Netflix, my son and daughter fought over the choices as the always do and landed upon an animated movie they agreed upon called Inside Out. Now both my children know I am not usually a fan of animated movies, but I was forced to concede to their unified chorus of “Please, please!”. The movie tells the tale of a young girl who is forced to move by her parents, a common theme in family movies. The twist to this film was the fact that the entire story unraveled as the thought processes and emotions  in her head became caricatures: fear, anger, happiness and others were personified as cartoon characters. The main action occurred inside the young girl’s mind and her thoughts and memories were objectified as huge, boundless archives divided into long- and short-term memory.  I did not know it at the time – but I was watching an animated tale of cognitive psychology.  It was actually a very cute, funny, and touching film – if you have not watched it, I highly recommend it. 
+
+The creative imagery used by the makers of Inside Out is not altogether unique, in fact Kolers and Roediger use such visualizations to form the basis for their counter argument.  “Analogy is not by itself an explanation (p. 426). Most cognitive psychologists and theorists utilize spatial storage and search comparisons such as archives or computers to describe thought processes and emphasize the acquisition, storage, and retrieval of information. Both the mind and its processes are viewed as physical objects. Kolers and Roediger argue, however, that the mind should be viewed in context of process. The mind manipulates symbols and skills provide a framework for cognitive processes. 
+
+Throughout the article, the authors identify several deficiencies with current cognitive theory. Much of the study of memory entails subjects consciously recalling events; but, does being asked to recall something change that process? Do such experiments suffer from white coat syndrome? In addition, much of cognitive psychology is based on semantic primacy, and the idea that language is deeply encoded and overrides other process-oriented functions. Kolers and Roediger offer compelling evidence to the contrary – for example, other features of messaging besides semantics play a primary role in recall, such as cadence, typography, spacing, etc. Their arguments refute the previous analogy that the human mind is like a computer, which provides no additional recollection based on independent traits of users. This idea makes a lot of sense to me. I often recall my teacher’s actual voice in my head when remembering the information I was taught.
+
+Koler and Roediger theorize that the effect of an experience is dependent upon the procedure used in the realization process, as opposed to a description of the experience. This is why storytelling is such an effective teaching technique. The authors are correct – the human mind is not a computer that simply records and processes information based on predictable algorithm. Personalized anecdotes are far more memorable than simple rote lecture. Teachers who want to be effective, must find ways to captivate their students’ attention and make the material relatable, and therefore memorable.  Isn’t this after all what separates a good teach from a bad one: the ability to provide information in a digestible format that can be recalled for future use? It is ironic that analogies of computers and voluminous archives provide a visual depiction of cognition that makes the topic more easily understood by the average person, but also provides a foundation for a distorted depiction of cognition by those who take such explanations literally. 
+
+
