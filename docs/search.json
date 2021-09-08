@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "This blog was created in my capacity as a Criminal Justice PhD student at CUNY Graduate Center/John Jay College of Criminal Justice. The blog was suggested as an efficient mode of communication in my Cognitive Psychology class.  As my research interests include police officer wellness and resiliency, I am looking into the world of cognitive psychology to provide some insight into the thought process surrounding the psychological phenomenons of police officer cynicism, burnout, and distress. The thoughts expressed herein are my own. Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-02T23:33:47-04:00"
+      "last_modified": "2021-09-08T09:37:45-04:00"
     },
     {
       "path": "index.html",
       "title": "My Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-02T23:33:47-04:00"
+      "last_modified": "2021-09-08T09:17:03-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
