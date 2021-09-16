@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/09.16.21 Second post/",
+    "title": "This is my Second Post",
+    "description": "For this week's post, I discuss my plan for my semester long project.",
+    "author": [
+      {
+        "name": "K Quick",
+        "url": "https://kquicknyc.github.io/My-Blog/"
+      }
+    ],
+    "date": "2021-09-16",
+    "categories": [],
+    "contents": "\r\nAccording to the FBI, in 2019, nearly five times as many officers took their own lives than died at the hands of criminals. Even more disturbing than this is the fact that suicide is considered the “tip” of the mental health iceberg and a symptom of a much larger population of untreated officers in need of mental health support that looms beneath the visible surface. For my final paper, I would like to explore the cognitive factors associate with reluctance amongst police officers to seek assistance for mental health issues. I would like to synthesize the existing literature and research in this area in a review style paper. I will begin by examining the cognitive process associated with people deciding they need mental help – why does someone make this decision? Then I will review the well-established literature involving police-related stigma. There are two main factors that are commonly attributed to the reluctance of police officers to seek assistance for mental health. One is the helper stereotype: because police officers are called in routinely to help others, it becomes difficult for them to ask for help themselves. The other is that police work occurs in a hyper-masculine environment and asking for help can be seen as a sign of weakness.\r\nStigma is not unique to policing. There is stigma surrounding mental health for the general public as well. Stigma can lead to discrimination and a reluctance to seek mental health support. I will review the literature and identify factors that prevent ordinary persons from seeking mental health support. The literature involving cognition and seeking mental health support will form the foundation for my paper. In policing, however, there are additional factors that specifically exacerbate stigma. Factors that influence receptivity to mental health support include organizational climate, peer support or lack thereof, economic barriers, fear of reprisal, and career limitations. Ultimately, I would like to conduct a study to determine which factors present the greatest barrier to a police officer seeking mental health support. Is it an issue of recognition or does stigma play a leading role? If stigma plays a leading role, what contributes most to the stigma: organizational, peer, or individual level factors? This paper will critically summarize the existing body of knowledge in this area of cognition and form the basis for my future study.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-16T17:13:02-04:00",
+    "input_file": "welcome.knit.md"
+  },
+  {
     "path": "posts/09.08.21 First post/",
     "title": "This is my First Post",
     "description": "For this week's post, I offer some commentary on two classical pieces that challenge contemporary thought on cognition.",
